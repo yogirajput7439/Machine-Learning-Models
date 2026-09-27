@@ -9,3 +9,4 @@ Decision Tree Regressor
 In Suport vecotr machine -
 SVC (suport vector classifier)
 SVR (support vector regressor)
+Model Training with pruining
